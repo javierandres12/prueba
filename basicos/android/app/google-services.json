@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "832275918409",
+    "firebase_url": "https://basicos-e83e8.firebaseio.com",
+    "project_id": "basicos-e83e8",
+    "storage_bucket": "basicos-e83e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832275918409:android:9c76f0a55d6d3f8cd95998",
+        "android_client_info": {
+          "package_name": "com.example.basicos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832275918409-1cq0m8r2dcesbmkivmhndk5k4pha15dl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.basicos",
+            "certificate_hash": "9bbbaf1213e3c3313f97b3ffbeb8c71837c2fe86"
+          }
+        },
+        {
+          "client_id": "832275918409-6n5b8nqaa9ph3drjh057v29a7g7sr3hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkHAcEpIdGoPfafC0TdptBBSrW6p-BQTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832275918409-6n5b8nqaa9ph3drjh057v29a7g7sr3hn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
